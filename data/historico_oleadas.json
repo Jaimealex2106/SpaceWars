@@ -1,0 +1,4 @@
+{
+  "descripcion": "Registro histórico de cuántos enemigos aparecieron por oleada. Puedes editar esta lista; el juego construye p(x), P(x) y los límites con ella (transformada inversa).",
+  "enemigos_por_oleada": [2, 3, 1, 2, 4, 3, 2, 2, 3, 1, 4, 2, 3, 3, 2, 5, 2, 3, 1, 2]
+}

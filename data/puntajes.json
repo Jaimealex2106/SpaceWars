@@ -1,0 +1,113 @@
+[
+  {
+    "nombre": "Jaime",
+    "puntos": 663,
+    "nivel": 3,
+    "modo": "1P",
+    "eliminados": {
+      "facil": 18,
+      "medio": 7,
+      "dificil": 5,
+      "kamikaze": 2
+    },
+    "jefe_derrotado": false,
+    "dificultad": "facil",
+    "fecha": "2026-11-23 12:08"
+  },
+  {
+    "nombre": "chema",
+    "puntos": 2009,
+    "nivel": 9,
+    "modo": "1P",
+    "eliminados": {
+      "facil": 44,
+      "medio": 16,
+      "dificil": 15,
+      "kamikaze": 9
+    },
+    "jefe_derrotado": false,
+    "dificultad": "dificil",
+    "fecha": "2026-11-23 12:12"
+  },
+  {
+    "nombre": "chema",
+    "puntos": 150,
+    "nivel": 1,
+    "modo": "1P",
+    "eliminados": {
+      "facil": 7,
+      "medio": 2,
+      "dificil": 2,
+      "kamikaze": 0
+    },
+    "jefe_derrotado": false,
+    "dificultad": "dificil",
+    "fecha": "2026-11-23 12:13"
+  },
+  {
+    "nombre": "Jaiem",
+    "puntos": 1097,
+    "nivel": 5,
+    "modo": "1P",
+    "eliminados": {
+      "facil": 17,
+      "medio": 15,
+      "dificil": 3,
+      "kamikaze": 2
+    },
+    "jefe_derrotado": false,
+    "dificultad": "facil",
+    "fecha": "2026-11-23 12:18"
+  },
+  {
+    "nombre": "JAIEM",
+    "puntos": 198,
+    "nivel": 1,
+    "modo": "1P",
+    "eliminados": {
+      "facil": 10,
+      "medio": 3,
+      "dificil": 1,
+      "kamikaze": 0
+    },
+    "jefe_derrotado": false,
+    "dificultad": "dificil",
+    "fecha": "2026-11-23 12:19"
+  },
+  {
+    "nombre": "jaimwe",
+    "puntos": 125,
+    "nivel": 1,
+    "modo": "2P",
+    "eliminados": {
+      "facil": 6,
+      "medio": 4,
+      "dificil": 0,
+      "kamikaze": 0
+    },
+    "jefe_derrotado": false,
+    "dificultad": "facil",
+    "fecha": "2026-11-23 12:20",
+    "rival": "dsld",
+    "puntos_rival": 80,
+    "resultado": "gano"
+  },
+  {
+    "nombre": "dsld",
+    "puntos": 80,
+    "nivel": 1,
+    "modo": "2P",
+    "eliminados": {
+      "facil": 6,
+      "medio": 0,
+      "dificil": 1,
+      "kamikaze": 0
+    },
+    "jefe_derrotado": false,
+    "dificultad": "facil",
+    "fecha": "2026-11-23 12:20",
+    "rival": "jaimwe",
+    "puntos_rival": 125,
+    "resultado": "perdio"
+  }
+]

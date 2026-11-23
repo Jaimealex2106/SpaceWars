@@ -1,0 +1,10 @@
+{
+  "skins": [
+    "glaciar",
+    "nebula"
+  ],
+  "vol_musica": 0.6,
+  "vol_efectos": 0.8,
+  "mute": false,
+  "dificultad": "facil"
+}
